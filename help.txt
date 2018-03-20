@@ -1,0 +1,12 @@
+Step 1: Run char3.m
+Neural Network Training will start, When performance goal met close the window.
+In command window it will show training result
+
+Step 2: Run charGUI2.m
+Select load image -> From file type select "All File" -> Select any of the image
+here 1 for "Shoreo", 2 for "Shorea"...
+
+Step3: Then press pre-process and then feature extraction and then recognize.
+
+
+In result it will show the number which it learned. And the image will produce the output
